@@ -76,7 +76,7 @@ export const links: linkGroup[] = [
 				value: "https://plex.com/",
 			},
 			{
-				label: "123movies",
+				label: "0123movies",
 				value: "https://ww2.watch0123movies.net/",
 			},
 			{
