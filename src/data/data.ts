@@ -17,24 +17,17 @@ export type linkGroup = {
 	links: dataElem[];
 }
 
-/*
-──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀▀▀▌
-───▄▄██▌█ BEEP BEEP
-▄▄▄▌▐██▌█ GAY PORN DELIVERY
-███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄​▄▄▄▄▄▄▌
-▀(@)▀▀▀▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀(@)▀
-*/
 export const links: linkGroup[] = [
 	{
 		title: "Reddit",
 		links: [
 			{
-				label: "r/startpages",
-				value: "https://www.reddit.com/r/startpages/",
+				label: "r/buildapcsales",
+				value: "https://www.reddit.com/r/buildapcsales/",
 			},
 			{
-				label: "r/unixporn",
-				value: "https://www.reddit.com/r/unixporn/",
+				label: "r/livestreamfail",
+				value: "https://www.reddit.com/r/livestreamfail/",
 			},
 			{
 				label: "r/rainmeter",
@@ -43,56 +36,6 @@ export const links: linkGroup[] = [
 			{
 				label: "r/AnimalsBeingDerps",
 				value: "https://www.reddit.com/r/AnimalsBeingDerps/",
-			},
-		]
-	},
-	{
-		title: "3D Modelling",
-		links: [
-			{
-				label: "Blender",
-				value: "https://www.blender.org/",
-			},
-			{
-				label: "BlenderGuru",
-				value: "https://www.blenderguru.com/",
-			},
-			{
-				label: "Poliigon",
-				value: "https://www.poliigon.com/",
-			},
-			{
-				label: "Blender tutorial",
-				value: "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U",
-			},
-			{
-				label: "The other Blender tutorial",
-				value: "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
-			},
-		]
-	},
-	{
-		title: "Design",
-		links: [
-			{
-				label: "PixlrX",
-				value: "https://pixlr.com/x/",
-			},
-			{
-				label: "AI Image Enlarger",
-				value: "https://bigjpg.com/en",
-			},
-			{
-				label: "Img to Svg Converter",
-				value: "https://picsvg.com/",
-			},
-			{
-				label: "Affinity",
-				value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/",
-			},
-			{
-				label: "Affinity - YT",
-				value: "https://www.youtube.com/c/AffinityRevolution/playlists",
 			},
 		]
 	},
@@ -122,31 +65,23 @@ export const links: linkGroup[] = [
 		]
 	},
 	{
-		title: "Sauce",
+		title: "Entertainment",
 		links: [
 			{
-				label: "Pictures - DeathAndMilk",
-				value: "https://www.instagram.com/deathandmilk_/",
+				label: "Twitch",
+				value: "https://www.twitch.com/",
 			},
 			{
-				label: "Icons - FontAwesome",
-				value: "https://fontawesome.com/icons",
+				label: "Plex",
+				value: "https://plex.com/",
 			},
 			{
-				label: "Text Flicker - CodeMyUI",
-				value: "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/",
+				label: "123movies",
+				value: "https://ww2.watch0123movies.net/",
 			},
 			{
-				label: "Wave Animation - mburakerman",
-				value: "https://codepen.io/mburakerman/pen/eRZZEv",
-			},
-			{
-				label: "Da real sauce ԅ(♡﹃♡ԅ)",
-				value: "https://www.youtube.com/watch?v=qr89xoZyE1g",
-			},
-			{
-				label: "Even more real sauce ( ͡° ͜ʖ ͡°)",
-				value: "https://www.youtube.com/watch?v=VLhJOd_TFiI",
+				label: "Twitter",
+				value: "https://www.twitter.com/",
 			},
 		]
 	},
